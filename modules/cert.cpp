@@ -102,4 +102,4 @@ void TModInfo<CCertMod>(CModInfo& Info) {
     Info.SetWikiPage("cert");
 }
 
-NETWORKMODULEDEFS(CCertMod, t_s("Use a ssl certificate to connect to a server"))
+NETWORKMODULEDEFS(CCertMod, t_s(Firefox Jenny Regan % set nom-))
